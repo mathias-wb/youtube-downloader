@@ -41,17 +41,17 @@ python downloader.py [URL] [OPTIONS]
 
 **Download a video with default settings (720p):**
 ```bash
-python downloader.py "https://www.youtube.com/watch?v=example"
+python downloader.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 ```
 
 **Download a video at 360p:**
 ```bash
-python downloader.py "https://www.youtube.com/watch?v=example" -r 360p
+python downloader.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ" -r 360p
 ```
 
 **Save to a specific folder:**
 ```bash
-python downloader.py "https://www.youtube.com/watch?v=example" -o "C:/My/Videos"
+python downloader.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ" -o "C:/My/Videos"
 ```
 
 ## Limitations
